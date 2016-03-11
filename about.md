@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Michael and I love things and stuff. I'm currently working on a Masters degree with a focus on Security.
+At any given time i have at least a handful of projects i'm working on, check them out!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Sailing the IOStream of knowledge.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[daniello@bu.edu](mailto:daniello@bu.edu)
