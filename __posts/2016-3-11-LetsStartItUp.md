@@ -10,6 +10,6 @@ title: Lets Start It Up
 </blockquote>
 	</div>
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+
 
 
