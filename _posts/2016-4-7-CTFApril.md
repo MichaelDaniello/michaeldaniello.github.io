@@ -25,4 +25,4 @@ Some exciting things are coming up though:
 -> Google's first CTF? Some people from MITRE might be joining us to play this one. We'll be playing this.
 
 > Quote of the Day:
->#### "I have not failed. I’ve just found 10,000 ways that won’t work." – Thomas Edison
+>"I have not failed. I’ve just found 10,000 ways that won’t work." – Thomas Edison
