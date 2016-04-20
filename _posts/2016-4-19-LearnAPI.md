@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Log: API's
+title: Learning Log
 ---
 
 
