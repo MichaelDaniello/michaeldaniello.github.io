@@ -9,7 +9,9 @@ When I'm searching for learning resources, it can be a very hit or miss process.
 This brings me to the point of this post. I want to provide something that I've gathered over time, and will continue to gather on my journey and learning path. As I find resources that provide a quick level up in knowledge, or something I found essential to further understanding I will be adding it to my "Learning Log". Over time it is my hope that it will save you much wasted time, and give you a map to plot your course as you proceed. 
 
 The first of which I will be adding is a great overview on what an API is and how it works: [Introduction to APIs](https://zapier.com/learn/apis/ "Intro to APIs")
+
 ![API](/images/api.png)
+
 >Quote of the day:
 >>"“A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.” — Mitch Ratcliffe
 >
