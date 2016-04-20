@@ -1,6 +1,7 @@
 ---
 layout: post
 title: April CTFs
+published: false
 ---
 
 Be sure to check out AngstromCTF this weekend. Prepare for PlaidCTF and GoogleCTF, we'll be playing both!
