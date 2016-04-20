@@ -13,5 +13,5 @@ The first of which I will be adding is a great overview on what an API is and ho
 ![API](/images/api.png)
 
 >####Quote of the day:
->>#####“A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.” — Mitch Ratcliffe
+>#####“A computer lets you make more mistakes faster than any other invention in human history, with the possible exceptions of handguns and tequila.” — Mitch Ratcliffe
 
