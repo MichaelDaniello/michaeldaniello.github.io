@@ -2,6 +2,7 @@
 layout: post
 title: Learning Log VIM
 ---
+
 #### Text editors: What Gives?!
 It's hard to sit down and do an analysis and come out with a clear winner here. This is one of the on going wars that will never reach a final verdict. Which editor should I use? Sublime Text, Atom, VIM, EMACS?
 
@@ -9,3 +10,4 @@ Well my answer to this one is simple: Try them all out! Today we will be looking
 
 >#### Quote of the Day:
 >“The difference between theory and practice is that in theory, there is no difference between theory and practice.” — Richard Moore
+>
